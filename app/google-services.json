@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779121374493",
+    "project_id": "pdfdownloader-ee267",
+    "storage_bucket": "pdfdownloader-ee267.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779121374493:android:d23961933057f5d1085df4",
+        "android_client_info": {
+          "package_name": "com.example.pdfdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779121374493-c4jdh0iie9b32l6pq07il3qlkk91mvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1LKTgQtf1l3C6I9UtLmLXBMkIJcpURjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779121374493-c4jdh0iie9b32l6pq07il3qlkk91mvdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
